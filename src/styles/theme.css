@@ -1,0 +1,14 @@
+@theme {
+  --font-sans: 'Poppins', sans-serif;
+  --font-display: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #0B0F1A;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
