@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { ArrowRight, MessageCircle } from "lucide-react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 export default function CTASection() {
   return (

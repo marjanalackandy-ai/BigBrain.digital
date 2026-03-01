@@ -8,7 +8,7 @@ import {
   TrendingUp, 
   ArrowRight 
 } from "lucide-react";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 const services = [
   { icon: Megaphone, title: "Social Media Marketing", desc: "Build a community and engage your audience with content that converts." },
